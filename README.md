@@ -1,6 +1,17 @@
-# 💫 About Me:
-Hello, I'm Soham Nimkar, a B.Tech graduate <br>in Electrical Engineering with a strong passion<br>for software development and Java programming.<br>I have hands-on experience in Core Java, Advanced Java,<br>Spring Boot, React.js, MySQL, and JDBC through internships <br>and projects. I am eager to apply my technical skills, <br>problem-solving abilities, and continuous learning mindset <br>to contribute to innovative software solutions.
+# Hi 👋, I'm Soham Nimkar
 
+🎓 B.Tech Graduate in Electrical Engineering  
+💻 Aspiring Java Developer  
+🌱 Currently learning Spring Boot, Microservices & AWS  
+🚀 Passionate about Software Development and Problem Solving
+
+## 🚀 About Me
+
+- 🔭 Working on Java Full Stack Projects
+- 🌱 Learning Spring Boot, React.js and Microservices
+- 💬 Ask me about Java, JDBC, MySQL and OOP
+- 📫 Reach me at: sohamnimkar0@gmail.com
+- ⚡ Fun Fact: Started as an Electrical Engineer and now building Software Solutions
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soham_nimkar_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ linkedin.com/in/soham-nimkar-810672243) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohamnimkar0@gmail.com) 
@@ -25,3 +36,9 @@ Hello, I'm Soham Nimkar, a B.Tech graduate <br>in Electrical Engineering with a 
 [![](https://komarev.com/ghpvc/?username=sohamnimkar0-design&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 🤝 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/soham-nimkar-810672243
+- Email: sohamnimkar0@gmail.com
